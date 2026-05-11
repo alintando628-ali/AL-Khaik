@@ -1,0 +1,8 @@
+{
+  "name": "FixIt Pro - Mobile Repair Specialist",
+  "description": "Professional smartphone and electronics repair. Experts in iPhone, Samsung, and Pixel repairs with lifetime warranty and 30-minute turnaround.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
